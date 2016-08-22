@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>avast-is-trial</id>
+    <version>0.0.1</version>
+    <packageSourceUrl>https://github.com/milanoid/chocolatey-avast-packages</packageSourceUrl>
+    <owners>Milan Vojnovic</owners>
+    <title>avast-is-trial (Install)</title>
+    <authors>Avast Software</authors>
+    <projectUrl>https://www.avast.com/internet-security</projectUrl>
+    <tags>avast antivirus</tags>
+    <summary>For those who advanced protection</summary>
+    <description>30 days trial of Avast's advanced product.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
