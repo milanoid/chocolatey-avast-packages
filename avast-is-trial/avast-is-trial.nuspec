@@ -13,6 +13,7 @@
     <summary>For those who advanced protection</summary>
     <description>30 days trial of Avast's advanced product.</description>
     <licenseUrl>https://www.avast.com/eula-avast-consumer-products</licenseUrl>
+    <releaseNotes>https://cdn.rawgit.com/milanoid/chocolatey-avast-packages/master/ReleaseNotes.txt</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
