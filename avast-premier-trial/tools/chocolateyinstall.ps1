@@ -10,7 +10,7 @@ $url64      = ''
 $packageArgs = @{
   packageName   = $packageName
   unzipLocation = $toolsDir
-  fileType      = 'EXE_MSI_OR_MSU'
+  fileType      = 'EXE'
   url           = $url
   url64bit      = $url64
 
