@@ -8,9 +8,11 @@
     <title>avast-pro-trial (Install)</title>
     <authors>Avast Software</authors>
     <projectUrl>https://www.avast.com/pro-antivirus</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/milanoid/chocolatey-avast-packages/master/paid.png</iconUrl>
     <tags>avast antivirus</tags>
     <summary>For those who want it light</summary>
     <description>30 days trial of Avast's PRO edition.</description>
+    <licenseUrl>https://www.avast.com/eula-avast-consumer-products</licenseUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
