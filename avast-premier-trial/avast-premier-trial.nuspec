@@ -10,7 +10,7 @@
     <projectUrl>https://www.avast.com/en-us/premier</projectUrl>
     <tags>avast antivirus</tags>
     <summary>For those who want it all</summary>
-    <description>Flagship product of Avast Software</description>
+    <description>30 days trial of Avast's flagship product.</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
