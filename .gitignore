@@ -1,1 +1,2 @@
-.nupkg
+#Ignore generated nupkg files
+*.nupkg
