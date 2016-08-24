@@ -1,4 +1,1 @@
-0.0.1 
------
-- Avast Pro|Internet Security|Premium silent install
-- submitted to review
+Avast Antivirus - Nitro Update

@@ -9,9 +9,9 @@
     <authors>Avast Software</authors>
     <projectUrl>https://www.avast.com/internet-security</projectUrl>
     <iconUrl>https://cdn.rawgit.com/milanoid/chocolatey-avast-packages/master/paid.png</iconUrl>
-    <tags>avast antivirus</tags>
-    <summary>For those who advanced protection</summary>
-    <description>30 days trial of Avast's advanced product.</description>
+    <tags>avast antivirus trial</tags>
+    <summary>For those who want advanced protection</summary>
+    <description>30 days trial of Avast's advanced product</description>
     <licenseUrl>https://www.avast.com/eula-avast-consumer-products</licenseUrl>
     <releaseNotes>https://cdn.rawgit.com/milanoid/chocolatey-avast-packages/master/ReleaseNotes.txt</releaseNotes>
   </metadata>
