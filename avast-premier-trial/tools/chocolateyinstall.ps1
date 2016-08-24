@@ -18,7 +18,7 @@ $packageArgs = @{
   validExitCodes= @(0, 3010, 1641)
 
   softwareName  = 'avast-premier-trial*'
-  checksum      = ''
+  checksum      = 'b6e6fad911f99b82bf177954930deabb'
   checksumType  = 'md5'
   checksum64    = ''
   checksumType64= 'md5'

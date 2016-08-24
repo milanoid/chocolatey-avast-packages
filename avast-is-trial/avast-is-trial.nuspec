@@ -8,9 +8,12 @@
     <title>avast-is-trial (Install)</title>
     <authors>Avast Software</authors>
     <projectUrl>https://www.avast.com/internet-security</projectUrl>
-    <tags>avast antivirus</tags>
-    <summary>For those who advanced protection</summary>
-    <description>30 days trial of Avast's advanced product.</description>
+    <iconUrl>https://cdn.rawgit.com/milanoid/chocolatey-avast-packages/master/paid.png</iconUrl>
+    <tags>avast antivirus trial</tags>
+    <summary>For those who want advanced protection</summary>
+    <description>30 days trial of Avast's advanced product</description>
+    <licenseUrl>https://www.avast.com/eula-avast-consumer-products</licenseUrl>
+    <releaseNotes>https://cdn.rawgit.com/milanoid/chocolatey-avast-packages/master/ReleaseNotes.txt</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
