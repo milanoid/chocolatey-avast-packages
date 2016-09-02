@@ -18,8 +18,6 @@ $packageArgs = @{
   softwareName  = 'avast-pro-trial*'
   checksum      = '4664e40cd0f534422c96d650e738c469'
   checksumType  = 'md5'
-  checksum64    = ''
-  checksumType64= 'md5'
 }
 
 Install-ChocolateyPackage @packageArgs
