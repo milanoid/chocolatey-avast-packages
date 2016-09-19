@@ -2,9 +2,9 @@
 
 $ErrorActionPreference = 'Stop';
 
-$packageName = 'avast-premier-trial'
-$softwareName = 'avast-premier-trial*'
-$installerType = 'MSI' 
+$packageName = 'avast-pro-trial'
+$softwareName = 'avast-pro-trial*'
+$installerType = 'EXE' 
 
 $silentArgs = '/qn /norestart'
 $validExitCodes = @(0, 3010, 1605, 1614, 1641)
