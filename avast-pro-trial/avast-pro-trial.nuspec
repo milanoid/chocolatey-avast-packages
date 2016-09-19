@@ -5,7 +5,7 @@
     <version>0.0.1</version>
     <packageSourceUrl>https://github.com/milanoid/chocolatey-avast-packages</packageSourceUrl>
     <owners>Milan Vojnovic</owners>
-    <title>avast-pro-trial (Install)</title>
+    <title>Avast Pro Antivirus (Trial)</title>
     <authors>Avast Software</authors>
     <projectUrl>https://www.avast.com/pro-antivirus</projectUrl>
     <iconUrl>https://cdn.rawgit.com/milanoid/chocolatey-avast-packages/master/paid.png</iconUrl>
